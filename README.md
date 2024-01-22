@@ -21,4 +21,5 @@ Feladatok:
       - Ha az injektálás nem sikerül, a metódus az „Az adatok elérhetetlenek!” hibaüzenettel térjen vissza!
       - Ha talál diákokat, akkor a diákok listáját adja vissza a kérés, ha nem akkor egy üres diák listát!
 
-Tesztelje és dokumentálja a feladat megoldását!
+Vegyen fel tesztadatokat a ModelBuilderExtension fájlba és tesztelje megoldását!
+Dokumentálja a feladat megoldását!
