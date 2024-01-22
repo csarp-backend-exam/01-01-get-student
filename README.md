@@ -20,4 +20,6 @@ Feladatok:
   1. SelectAllRecordToListAsync http get kérést kiszolágó metódus
 - A kérésre a metódus Ok vagy BadReuqest válaszokat adjon!
 - Ha az injektálás nem sikerül, a metódus az „Az adatok elérhetetlenek!” hibaüzenettel térjen vissza!
-- Ha talál diákokat. akkor a diákok listáját adja vissza a kérés, ha nem akkor egy üres diák listát!
+- Ha talál diákokat, akkor a diákok listáját adja vissza a kérés, ha nem akkor egy üres diák listát!
+
+Tesztelje és dokumentálja a feladat megoldását!
